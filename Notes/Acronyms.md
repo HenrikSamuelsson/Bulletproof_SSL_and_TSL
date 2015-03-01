@@ -1,3 +1,5 @@
+# E  
+**ECB** Electronic CodeBook  
 # M  
 **MAC** Message Authentication Code  
 # S  
