@@ -1,3 +1,5 @@
+# M  
+**MAC** Message Authentication Code  
 # S  
 **SSL** Secure Sockets Layer  
 # T  
