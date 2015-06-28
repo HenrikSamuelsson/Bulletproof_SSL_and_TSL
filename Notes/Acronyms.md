@@ -22,3 +22,5 @@
 # T  
 **TLS** Transport Layer Security  
 **TRNG** True Random Number Generator  
+# U
+**UDP** User Datagram Protocol  
