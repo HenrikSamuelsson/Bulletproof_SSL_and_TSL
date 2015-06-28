@@ -3,7 +3,7 @@
 **AES** Advanced Encryption Standard  
 **ARP** Address Resolution Protocol  
 # C  
-**CA** Certificate Authority or Certification Authority
+**CA** Certificate Authority or Certification Authority  
 **CBC** Cipher Block Chaining  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
 # E  
