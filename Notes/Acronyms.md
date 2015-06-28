@@ -1,5 +1,6 @@
 # A  
-**AEAD** Authenticated Encryption with Associated Data  
+**AEAD** Authenticated Encryption with Associated Data   
+**AES** Advanced Encryption Standard  
 **ARP** Address Resolution Protocol  
 # C  
 **CBC** Cipher Block Chaining  
