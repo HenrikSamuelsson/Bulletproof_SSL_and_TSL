@@ -2,6 +2,7 @@
 **AEAD** Authenticated Encryption with Associated Data   
 **AES** Advanced Encryption Standard  
 **AIA** Authority Information Access  
+**ALPN** Application Layer Protocol Negotiation   
 **ARP** Address Resolution Protocol  
 # C  
 **CA** Certificate Authority or Certification Authority  
