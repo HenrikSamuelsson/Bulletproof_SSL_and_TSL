@@ -26,9 +26,10 @@
 **Dual_EC_DRBG** Dual Elliptic Curve Deterministic Random Bit Generator  
 **DV** Domain Validation  
 # E  
+**ECB** Electronic CodeBook  
+**ECDH** Elliptic Curve Diffie–Hellman  
 # G  
 **GCM** Galois/Counter Mode  
-**ECB** Electronic CodeBook  
 # I  
 **IV** Initialization Vector  
 # M  
