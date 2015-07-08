@@ -23,6 +23,7 @@
 **DHE** Diffie Hellman key Exchange  
 **DSA** Digital Signature Algorithm  
 **DSS** Digital Signature Standard  
+**Dual_EC_DRBG** Dual Elliptic Curve Deterministic Random Bit Generator  
 # E  
 # G  
 **GCM** Galois/Counter Mode  
