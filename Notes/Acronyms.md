@@ -11,6 +11,8 @@
 **CA** Certificate Authority or Certification Authority  
 **CBC** Cipher Block Chaining  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
+# D  
+**DER** Distinguished Encoding Rules  
 # E  
 **ECB** Electronic CodeBook  
 # I  
