@@ -18,6 +18,7 @@
 **CSP** Content Security Policy  
 **CT** Certificate Transparency  
 # D  
+**DANE** DNS-based Authentication of Named Entities  
 **DER** Distinguished Encoding Rules  
 # E  
 # G  
