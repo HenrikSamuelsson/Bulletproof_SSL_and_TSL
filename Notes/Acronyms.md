@@ -12,10 +12,13 @@
 **CA** Certificate Authority or Certification Authority  
 **CAA** Certificate Authority Authorization  
 **CBC** Cipher Block Chaining  
+**CCM** Counter with CBC-MAC  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
 # D  
 **DER** Distinguished Encoding Rules  
 # E  
+# G  
+**GCM** 
 **ECB** Electronic CodeBook  
 # I  
 **IV** Initialization Vector  
