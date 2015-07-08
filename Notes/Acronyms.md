@@ -10,6 +10,7 @@
 **BGP** Border Gateway Protocol
 # C  
 **CA** Certificate Authority or Certification Authority  
+**CAA** Certificate Authority Authorization  
 **CBC** Cipher Block Chaining  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
 # D  
