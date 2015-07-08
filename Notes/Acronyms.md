@@ -7,6 +7,7 @@
 **ASN.1** Abstract Syntax Notation One  
 # B  
 **BER** Basic Encoding Rules  
+**BGP** Border Gateway Protocol
 # C  
 **CA** Certificate Authority or Certification Authority  
 **CBC** Cipher Block Chaining  
