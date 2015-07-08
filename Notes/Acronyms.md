@@ -18,7 +18,7 @@
 **DER** Distinguished Encoding Rules  
 # E  
 # G  
-**GCM** 
+**GCM** Galois/Counter Mode  
 **ECB** Electronic CodeBook  
 # I  
 **IV** Initialization Vector  
