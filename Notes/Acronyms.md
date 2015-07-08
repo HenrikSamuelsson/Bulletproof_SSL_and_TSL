@@ -14,6 +14,7 @@
 **CBC** Cipher Block Chaining  
 **CCM** Counter with CBC-MAC  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
+**CRL** Certificate Revocation List  
 # D  
 **DER** Distinguished Encoding Rules  
 # E  
