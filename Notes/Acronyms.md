@@ -29,6 +29,7 @@
 **ECB** Electronic CodeBook  
 **ECDH** Elliptic Curve Diffie–Hellman  
 **ECDSA** Elliptic Curve Digital Signature Algorithm  
+**ECRYPT** European Network of Excellence in Cryptology   
 # G  
 **GCM** Galois/Counter Mode  
 # I  
