@@ -22,6 +22,7 @@
 **DER** Distinguished Encoding Rules  
 **DHE** Diffie Hellman key Exchange  
 **DSA** Digital Signature Algorithm  
+**DSS** Digital Signature Standard  
 # E  
 # G  
 **GCM** Galois/Counter Mode  
