@@ -15,7 +15,8 @@
 **CCM** Counter with CBC-MAC  
 **CPRNG** Cryptographic Pseudo Random Number Generator  
 **CRL** Certificate Revocation List  
-**CSP** Content Security Policy
+**CSP** Content Security Policy  
+**CT** Certificate Transparency  
 # D  
 **DER** Distinguished Encoding Rules  
 # E  
