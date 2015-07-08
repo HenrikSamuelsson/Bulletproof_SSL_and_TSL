@@ -24,6 +24,7 @@
 **DSA** Digital Signature Algorithm  
 **DSS** Digital Signature Standard  
 **Dual_EC_DRBG** Dual Elliptic Curve Deterministic Random Bit Generator  
+**DV** Domain Validation  
 # E  
 # G  
 **GCM** Galois/Counter Mode  
