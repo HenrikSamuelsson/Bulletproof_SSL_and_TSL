@@ -28,6 +28,7 @@
 # E  
 **ECB** Electronic CodeBook  
 **ECDH** Elliptic Curve Diffie–Hellman  
+**ECDSA** Elliptic Curve Digital Signature Algorithm  
 # G  
 **GCM** Galois/Counter Mode  
 # I  
