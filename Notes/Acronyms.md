@@ -21,6 +21,7 @@
 **MAC** Message Authentication Code  
 **MITM** Man In The Middle  
 # P  
+**PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
 # R 
 **RSA** Rivest-Shamir-Adleman cryptosystem  
