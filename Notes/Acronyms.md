@@ -5,6 +5,8 @@
 **ALPN** Application-Layer Protocol Negotiation   
 **ARP** Address Resolution Protocol  
 **ASN.1** Abstract Syntax Notation One  
+# B  
+**BER** Basic Encoding Rules  
 # C  
 **CA** Certificate Authority or Certification Authority  
 **CBC** Cipher Block Chaining  
