@@ -20,6 +20,7 @@
 # D  
 **DANE** DNS-based Authentication of Named Entities  
 **DER** Distinguished Encoding Rules  
+**DHE** Diffie Hellman key Exchange  
 # E  
 # G  
 **GCM** Galois/Counter Mode  
