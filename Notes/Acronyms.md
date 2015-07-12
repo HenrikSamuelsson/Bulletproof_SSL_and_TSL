@@ -37,6 +37,7 @@
 # F
 **FIPS** Federal Information Processing Standard  
 # G  
+**GCHQ** Government Communication Headquarters  
 **GCM** Galois/Counter Mode  
 # I  
 **IV** Initialization Vector  
