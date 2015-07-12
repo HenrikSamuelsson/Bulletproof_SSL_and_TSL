@@ -39,6 +39,8 @@
 # G  
 **GCHQ** Government Communication Headquarters  
 **GCM** Galois/Counter Mode  
+# H
+**HMAC** Hash Message Authentication Code  
 # I  
 **IV** Initialization Vector  
 # M  
