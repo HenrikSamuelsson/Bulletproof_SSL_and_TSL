@@ -47,6 +47,7 @@
 **HTTP** Hypertext Transfer Protocol  
 **HTTPS** Hypertext Transfer Protocol Secure  
 # I  
+**ISS** Internet Information Server or Internet Information Services  
 **IV** Initialization Vector  
 # M  
 **MAC** Message Authentication Code  
