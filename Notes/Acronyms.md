@@ -42,6 +42,9 @@
 # H
 **HMAC** Hash Message Authentication Code  
 **HPKP** HTTP Public Key Pinning  
+**HSM** Hardware Security Module  
+**HSTS** HTTP Strict Transport Security  
+
 # I  
 **IV** Initialization Vector  
 # M  
