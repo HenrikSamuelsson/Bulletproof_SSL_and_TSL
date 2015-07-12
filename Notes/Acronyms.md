@@ -31,7 +31,8 @@
 **ECDSA** Elliptic Curve Digital Signature Algorithm  
 **ECRYPT** European Network of Excellence in Cryptology  
 **EFF** Electronic Frontier Foundation  
-**EMET** Enhanced Mitigation Experience Toolkit 
+**EMET** Enhanced Mitigation Experience Toolkit  
+**ENISA** European Union Agency for Network and Information Security  
 # G  
 **GCM** Galois/Counter Mode  
 # I  
