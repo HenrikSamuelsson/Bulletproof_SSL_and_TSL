@@ -41,6 +41,7 @@
 **GCM** Galois/Counter Mode  
 # H
 **HMAC** Hash Message Authentication Code  
+**HPKP** HTTP Public Key Pinning  
 # I  
 **IV** Initialization Vector  
 # M  
