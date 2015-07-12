@@ -44,6 +44,7 @@
 **HPKP** HTTP Public Key Pinning  
 **HSM** Hardware Security Module  
 **HSTS** HTTP Strict Transport Security  
+**HTTP** Hypertext Transfer Protocol  
 
 # I  
 **IV** Initialization Vector  
