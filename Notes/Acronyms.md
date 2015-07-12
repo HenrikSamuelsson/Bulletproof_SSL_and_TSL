@@ -30,7 +30,8 @@
 **ECDH** Elliptic Curve Diffie–Hellman  
 **ECDSA** Elliptic Curve Digital Signature Algorithm  
 **ECRYPT** European Network of Excellence in Cryptology  
-**EFF** Electronic Frontier Foundation   
+**EFF** Electronic Frontier Foundation  
+**EMET** Enhanced Mitigation Experience Toolkit 
 # G  
 **GCM** Galois/Counter Mode  
 # I  
