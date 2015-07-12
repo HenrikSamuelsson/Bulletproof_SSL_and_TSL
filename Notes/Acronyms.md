@@ -45,7 +45,7 @@
 **HSM** Hardware Security Module  
 **HSTS** HTTP Strict Transport Security  
 **HTTP** Hypertext Transfer Protocol  
-
+**HTTPS** Hypertext Transfer Protocol Secure  
 # I  
 **IV** Initialization Vector  
 # M  
