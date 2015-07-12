@@ -33,6 +33,8 @@
 **EFF** Electronic Frontier Foundation  
 **EMET** Enhanced Mitigation Experience Toolkit  
 **ENISA** European Union Agency for Network and Information Security  
+**EV** Extended Validation certificate  
+
 # G  
 **GCM** Galois/Counter Mode  
 # I  
