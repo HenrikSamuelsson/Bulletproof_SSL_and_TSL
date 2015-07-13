@@ -59,6 +59,8 @@
 **MITM** Man In The Middle  
 # N
 **NIST** National Institute of Standards and Technology  
+**NPN** Next Protocol Negotiation  
+**NSA** National Security Agency  
 # P  
 **PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
