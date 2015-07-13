@@ -49,6 +49,8 @@
 # I  
 **ISS** Internet Information Server or Internet Information Services  
 **IV** Initialization Vector  
+# J
+**JSSE** Java Secure Socket Extension  
 # M  
 **MAC** Message Authentication Code  
 **MITM** Man In The Middle  
