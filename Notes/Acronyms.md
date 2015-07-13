@@ -55,6 +55,7 @@
 **LRA** Local Registration Authority  
 # M  
 **MAC** Message Authentication Code  
+**MECAI** Mutually Endorsing CA Infrastructure   
 **MITM** Man In The Middle  
 # P  
 **PEM** Privacy-Enhanced Mail  
