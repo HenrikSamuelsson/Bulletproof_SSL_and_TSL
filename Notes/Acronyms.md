@@ -63,6 +63,7 @@
 **NSA** National Security Agency  
 # O
 **OSCP** Online Certificate Status Protocol  
+**OSI** Open Systems Interconnection  
 # P  
 **PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
