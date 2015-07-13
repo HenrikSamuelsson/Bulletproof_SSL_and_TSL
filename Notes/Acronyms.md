@@ -57,6 +57,8 @@
 **MAC** Message Authentication Code  
 **MECAI** Mutually Endorsing CA Infrastructure   
 **MITM** Man In The Middle  
+# N
+**NIST** National Institute of Standards and Technology  
 # P  
 **PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
