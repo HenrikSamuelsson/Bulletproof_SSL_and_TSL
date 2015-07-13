@@ -69,6 +69,7 @@
 **PEM** Privacy-Enhanced Mail  
 **PKCS** Public-Key Cryptography Standard  
 **PKI** Public Key Infrastructure  
+**PKIX** Public-Key Infrastructure X.509  
 **PRNG** PseudoRandom Number Generator  
 # R 
 **RSA** Rivest-Shamir-Adleman cryptosystem  
