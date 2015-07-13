@@ -61,6 +61,8 @@
 **NIST** National Institute of Standards and Technology  
 **NPN** Next Protocol Negotiation  
 **NSA** National Security Agency  
+# O
+**OSCP** Online Certificate Status Protocol  
 # P  
 **PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
