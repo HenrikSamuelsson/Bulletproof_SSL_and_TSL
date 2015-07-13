@@ -64,6 +64,7 @@
 # O
 **OSCP** Online Certificate Status Protocol  
 **OSI** Open Systems Interconnection  
+**OV** Organization Validation  
 # P  
 **PEM** Privacy-Enhanced Mail  
 **PRNG** PseudoRandom Number Generator  
