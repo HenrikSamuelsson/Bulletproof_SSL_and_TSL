@@ -72,6 +72,8 @@
 **PKIX** Public-Key Infrastructure X.509  
 **PRF** Pseudo Random Function  
 **PRNG** PseudoRandom Number Generator  
+# Q
+**QUIC** Quick UDP Internet Connections  
 # R 
 **RSA** Rivest-Shamir-Adleman cryptosystem  
 # S  
