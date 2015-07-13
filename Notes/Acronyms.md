@@ -51,6 +51,8 @@
 **IV** Initialization Vector  
 # J
 **JSSE** Java Secure Socket Extension  
+# L
+**LRA** Local Registration Authority  
 # M  
 **MAC** Message Authentication Code  
 **MITM** Man In The Middle  
