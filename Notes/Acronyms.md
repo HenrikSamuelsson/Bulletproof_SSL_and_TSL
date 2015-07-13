@@ -76,6 +76,7 @@
 **QUIC** Quick UDP Internet Connections  
 # R 
 **RA** Registration Authority  
+**RC4** Rivest Cipher 4  
 **RSA** Rivest-Shamir-Adleman cryptosystem  
 # S  
 **SSL** Secure Sockets Layer  
