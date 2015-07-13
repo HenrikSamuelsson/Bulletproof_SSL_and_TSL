@@ -67,6 +67,7 @@
 **OV** Organization Validation  
 # P  
 **PEM** Privacy-Enhanced Mail  
+**PKCS**  Public-Key Cryptography Standard  
 **PRNG** PseudoRandom Number Generator  
 # R 
 **RSA** Rivest-Shamir-Adleman cryptosystem  
