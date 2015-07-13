@@ -70,6 +70,7 @@
 **PKCS** Public-Key Cryptography Standard  
 **PKI** Public Key Infrastructure  
 **PKIX** Public-Key Infrastructure X.509  
+**PRF** Pseudo Random Function  
 **PRNG** PseudoRandom Number Generator  
 # R 
 **RSA** Rivest-Shamir-Adleman cryptosystem  
