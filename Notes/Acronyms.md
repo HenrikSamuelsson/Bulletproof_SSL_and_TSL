@@ -80,6 +80,7 @@
 **RNG** Random Number Generator  
 **RSA** Rivest-Shamir-Adleman cryptosystem  
 # S  
+**SAN** Subject Alternative Name  
 **SSL** Secure Sockets Layer  
 # T  
 **TLS** Transport Layer Security  
