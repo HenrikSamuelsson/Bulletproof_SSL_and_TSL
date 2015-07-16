@@ -91,5 +91,7 @@
 **TCP** Transmission Control Protocol  
 **TLS** Transport Layer Security  
 **TRNG** True Random Number Generator  
+# W
+**WEP** Wired Equivalent Privacy  
 # U
 **UDP** User Datagram Protocol  
