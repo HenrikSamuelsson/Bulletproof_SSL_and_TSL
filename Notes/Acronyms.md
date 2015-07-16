@@ -84,6 +84,7 @@
 **SCSV** Signaling Cipher Suite Value  
 **SGV** Server-Gated Crypto  
 **SNI** Server Name Indication  
+**SPKI** Simple Public Key Infrastructure
 **SSL** Secure Sockets Layer  
 # T  
 **TLS** Transport Layer Security  
