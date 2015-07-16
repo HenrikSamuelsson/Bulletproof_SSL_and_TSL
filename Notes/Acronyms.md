@@ -87,6 +87,7 @@
 **SPKI** Simple Public Key Infrastructure
 **SSL** Secure Sockets Layer  
 # T  
+**TACK** Trust Assertions for Certificate Keys  
 **TLS** Transport Layer Security  
 **TRNG** True Random Number Generator  
 # U
