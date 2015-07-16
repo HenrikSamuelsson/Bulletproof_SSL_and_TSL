@@ -93,5 +93,6 @@
 **TRNG** True Random Number Generator  
 # W
 **WEP** Wired Equivalent Privacy  
+**WPAD** Web Proxy Auto Discovery  
 # U
 **UDP** User Datagram Protocol  
