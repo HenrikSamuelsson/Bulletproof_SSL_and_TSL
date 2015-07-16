@@ -82,6 +82,7 @@
 # S  
 **SAN** Subject Alternative Name  
 **SCSV** Signaling Cipher Suite Value  
+**SGV** Server-Gated Crypto  
 **SSL** Secure Sockets Layer  
 # T  
 **TLS** Transport Layer Security  
